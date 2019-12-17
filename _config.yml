@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Minimal Mistakes"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+name                     : &name "Alexander Wornast"
+description              : &description "Dunno m8"
+url                      : https://tetracionist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/tetracionist.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "tetracionist/tetracionist.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
