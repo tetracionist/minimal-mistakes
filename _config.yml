@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Wornast"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  avatar           : ""# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hobbyist programmer tuned professionally to the world of data"
   location         : "Farnborough"
   links:
     - label: "Email"
