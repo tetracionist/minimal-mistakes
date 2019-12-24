@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "dark"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-GB"
+title                    : "Tetracionist"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "tetracionist"
